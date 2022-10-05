@@ -1,2 +1,2 @@
-# MvcProjeKampi
-Mvc Proje Kampı Sıfırdan Eğitim
+# Mvc Proje Kampı
+Mvc Proje Kampı Sıfırdan Eğitim - Murat Yücedağ
